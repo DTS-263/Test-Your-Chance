@@ -1,0 +1,20 @@
+body{
+  background-color: #400101;
+  color: #fff;
+}
+
+h1{
+  font-size: 7rem;
+  margin: 5% 15%;
+  text-align: center;
+}
+
+.player-names-1{
+  margin-top: 5%;
+  text-align: center;
+}
+
+.player-names-2{
+  margin-top: 5%;
+  text-align: center;
+}
